@@ -1,0 +1,14 @@
+# Логи
+logs
+*.log
+npm-debug.log*
+
+# Директории
+node_modules
+dist
+
+# Прочее
+.npm
+.DS_Store
+.idea
+.env
