@@ -1,8 +1,12 @@
 import React from 'react';
+import { Button } from '../components';
 
 class Application extends React.Component {
   render() {
-    return <h1>Hello World!</h1>;
+    return <div>
+    <h1>Hello World!</h1>
+    <Button />
+    </div>;
   }
 }
 
